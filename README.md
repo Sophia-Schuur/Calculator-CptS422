@@ -7,4 +7,4 @@ Download repo. Open index.html in a browser. Operate as you would any other calc
 Includes some error/bug checking, such as storing the data identical to how the user sees it (preventing inconsistency when using many digits) and the like.
 
 ## Tests
-Includes unit and integration tests. Run ```npm test``` in the project directory to run unit and integration tests. These tests are found in ```functions.test.js```
+Includes unit and integration tests. In the project directory, run ```npm install``` to install the Jest dependency. Then run ```npm test``` to run unit and integration tests. Code for the tests are found in ```functions.test.js```
